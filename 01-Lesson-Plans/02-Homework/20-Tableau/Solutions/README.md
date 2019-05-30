@@ -1,1 +1,0 @@
-* If unable to open either workbook, go to [https://public.tableau.com/profile/trilogy4111#!/vizhome/CitiBike_12/StartStations](https://public.tableau.com/profile/trilogy4111#!/vizhome/CitiBike_12/StartStations). You may view the workbook online, or download your own copy.
