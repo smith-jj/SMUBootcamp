@@ -108,3 +108,6 @@ ENV/
 
 # Node project dependencies and settings
 node_modules/
+
+# Next Lesson
+3/Activities/
