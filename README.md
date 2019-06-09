@@ -1,7 +1,7 @@
 -----------------------------------------
 # SMU Data Visualization & Analytics Boot Camp Curriculum
 
-#### May 2019 Cohort
+#### May 2019 -- November 2019 Cohort
 
 
 -----------------------------------------
@@ -12,12 +12,7 @@
 
 #### Homework
 
-
 You must complete **90%** of the homework assignments. (You can miss **no more** than **2 assignments**.)
-
-
-** Homework submission is due on time **March 29th** **by 11:59pm CST**! Late submissions will not be counted.
-
 
 
 #### Attendance
